@@ -1,5 +1,5 @@
 {
-  "name": "minilogger",
+  "name": "logez",
   "version": "1.0.0",
   "description": "minimal js console logger ",
   "main": "./dist/index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lpimem/minilogger.git"
+    "url": "git+https://github.com/lpimem/logez.git"
   },
-  "author": "lpimem",
+  "author": "lpimem <lowatt.pi@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lpimem/minilogger/issues"
+    "url": "https://github.com/lpimem/logez/issues"
   },
-  "homepage": "https://github.com/lpimem/minilogger#readme"
+  "homepage": "https://github.com/lpimem/logez#readme"
 }
