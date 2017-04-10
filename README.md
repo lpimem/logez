@@ -2,7 +2,13 @@
 
 Minimal console logger.
 
-Sample usage: 
+## Install
+
+```Bash
+npm install logez --save
+```
+
+## Sample usage: 
 
 ```Typescript
 import { debug, info, warn, error, LogLevel, setLogLevel} from 'logez';
