@@ -2,6 +2,8 @@
 
 Minimal console logger.
 
+[![npm version](https://badge.fury.io/js/logez.svg)](https://badge.fury.io/js/logez)
+
 ## Install
 
 ```Bash
